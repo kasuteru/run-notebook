@@ -1,6 +1,6 @@
-name: 'Run Databricks Notebook'
-description: 'Triggers a one-time run of a Databricks notebook'
-author: 'Databricks'
+name: 'Run Databricks Notebook - unofficial'
+description: 'Triggers a one-time run of a Databricks notebook - additional features compared to official version'
+author: 'Databricks & others'
 inputs:
   local-notebook-path:
     description: >

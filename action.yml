@@ -1,5 +1,5 @@
 name: 'Run Databricks Notebook - extended'
-description: 'Triggers a one-time run of a Databricks notebook - additional features compared to official version. This is not the official version!'
+description: 'UNOFFICIAL extended version of Databricks' run-notebook action.'
 author: 'Databricks & others'
 inputs:
   local-notebook-path:

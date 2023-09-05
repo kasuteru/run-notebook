@@ -112,6 +112,7 @@ export class ApiClient {
           }
         }
       } else {
+        // here we need to set output variables
         throw new Error(
           `Job run did not succeed: ${response.state.state_message}`
         )

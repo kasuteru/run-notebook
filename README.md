@@ -1,5 +1,8 @@
 # databricks/run-notebook v0
 
+# --- DISCLAIMER ---
+This is not the original run-notebook action provided by Databricks, but instead a derived version (as allowed under the copyleft license) for testing of additional features. Unless you have a very good reason to use this action, you should use the original one provided by Databricks here: https://github.com/databricks/run-notebook
+
 # Overview
 Given a Databricks notebook and cluster specification, this Action runs the notebook as a one-time Databricks Job
 run (docs: 
